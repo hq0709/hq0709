@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hq0709 Hanqi Jiang from BJTU.
-- 👀 Research Directions: Computer vision, small target detection and deep reinforcement learning
+- 👀 Research Directions: Computer vision, target detection and 3D reconstruction.
 - 💞️ Feel free to discuss all academic research with me.
 - 📫 Contact me: jhqyyds@gmail.com or 20722010@bjtu.edu.cn
 
